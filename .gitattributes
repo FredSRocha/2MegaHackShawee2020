@@ -1,2 +1,1 @@
-* linguist-vendored
-*.js *.html linguist-vendored=false
+asstes/* linguist-vendored
